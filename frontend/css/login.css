@@ -1,0 +1,36 @@
+
+
+.form_conrainer {
+    width: 300px;
+    margin: auto;
+    position: relative;
+    margin-top: 10vh;
+}
+
+.form_conrainer_title {
+    background-color: rgb(202, 34, 68);
+    padding: 15px;
+    text-align: center;
+}
+
+.form-control {
+    width: 100%;
+    margin: 15px 0px 10px 0px;
+    display: inline-block;
+}
+
+.form-control > input {
+    width: 100%;
+    padding: 8px 3px;
+}
+
+.form-control_button {
+    width: 100%;
+    padding: 8px 0px;
+    margin-top: 5px;
+}
+
+.form {
+    border: 1px solid rgba(0,0,0,.2);
+    padding: 15px;
+}
